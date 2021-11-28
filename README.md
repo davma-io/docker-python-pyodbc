@@ -1,4 +1,4 @@
-## docker-python-pyodbc
+## Create python 3.7 image with pyodbc
 Python 3.7 image with pyodbc == 4.0.30
 
 ## Documentation and guides
